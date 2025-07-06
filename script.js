@@ -20,6 +20,6 @@
                                    
 
             } catch (error) {
-                result.innerHTML = `<p>No country found or error occurred.</p>`;
+                result.innerHTML = `<p>No country found .</p>`;
             }
         }
